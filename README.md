@@ -1,2 +1,2 @@
-# sprinted
-deprem-data
+# deprem-data
+deprem projesi data reposu
