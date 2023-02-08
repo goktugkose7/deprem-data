@@ -1,0 +1,2 @@
+# sprinted
+deprem-data
